@@ -29,7 +29,7 @@ I enjoy working on real-world products and I’m currently developing **UrbanizA
 ### UrbanizApp
 A platform for managing community and building administration with a modern UI and event-driven backend.  
 **Tech:** Next.js, Go, Kafka  
-🔗 [https://github.com/thebranchcrafter/urbanizapp](https://www.urbanizapp.com/)
+🔗 [Urbanizapp](https://www.urbanizapp.com/)
 
 ---
 
