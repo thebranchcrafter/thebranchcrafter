@@ -26,7 +26,7 @@ I enjoy working on real-world products and I’m currently developing **UrbanizA
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thebranchcrafter&layout=compact&theme=radical)
 
 ---
 
