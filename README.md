@@ -24,18 +24,12 @@ I enjoy working on real-world products and I’m currently developing **UrbanizA
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thebranchcrafter&layout=compact&theme=radical)
-
----
-
 ## ⭐ Featured Projects
 
 ### UrbanizApp
 A platform for managing community and building administration with a modern UI and event-driven backend.  
 **Tech:** Next.js, Go, Kafka  
-🔗 https://github.com/YOUR_USERNAME/urbanizapp
+🔗 https://github.com/thebranchcrafter/urbanizapp
 
 ---
 
